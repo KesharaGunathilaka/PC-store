@@ -1,2 +1,2 @@
-# PC-store
- PC store desktop application
+# PCstore
+ PC Store Desktop Application
